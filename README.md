@@ -9,7 +9,7 @@ I'm learning iOS APP development
 ## 🛠️ Languages and Tools
  <!-- badges(https://github.com/Ileriayo/markdown-badges) -->
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white)
