@@ -30,7 +30,7 @@ I'm learning iOS APP development
 <br>
 <br>
 ## 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvinrho&show_icons=true&theme=dark&include_all_commits=true&custom_title=Yuvin%20Rho's%20GitHub%20Stats&hide=issues,stars&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvinrho&show_icons=true&theme=dark&include_all_commits=true&custom_title=Yuvin%20Rho's%20GitHub%20Stats&hide=stars,issues&hide_border=true)
 <br>
 <br>
 
