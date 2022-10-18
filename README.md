@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=170&section=header&text=Yuvin%20Rho&fontSize=70&animation=twinkling)
-
 ## 😄 About Me
 Hi, there 👋
 
