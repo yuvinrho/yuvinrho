@@ -20,7 +20,7 @@ I'm learning iOS APP development
 <br>
 <br>
 ## 📝 Problem Solving
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yvrho)](https://solved.ac/yvrho)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yvrho)](https://solved.ac/yvrho)
 <br>
 <br>
 ## 🔥 Streak
