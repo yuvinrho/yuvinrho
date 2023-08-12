@@ -1,34 +1,31 @@
 ## 😄 About Me
 Hi, there 👋
 
-I'm learning iOS APP development
+I'm a Flutter developer
 <br>
 <br>
+
 ## 🛠️ Languages and Tools
  <!-- badges(https://github.com/Ileriayo/markdown-badges) -->
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div >
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code>
+ <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+</div>
+
+
+
 <br>
 <br>
-## 📝 Problem Solving
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yvrho)](https://solved.ac/yvrho)
-<br>
-<br>
-## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuvinrho&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<br>
-<br>
+
 ## 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvinrho&show_icons=true&theme=dark&include_all_commits=true&custom_title=Yuvin%20Rho's%20GitHub%20Stats&hide=stars,issues&hide_border=true)
-<br>
-<br>
+
+
 
